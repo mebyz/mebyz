@@ -15,3 +15,5 @@ i especially like to code procedural generation code for natural environments li
 - 💬 Ask me about anything !
 - 📫 How to reach me: emmanuel.botros@gmail.com
 - ⚡ Fun fact: I live in the most southern city of all European Union, south indian ocean : Saint-Joseph on La Reunion island !
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mebyz&theme=highcontrast)](https://git.io/streak-stats)
