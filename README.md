@@ -9,11 +9,17 @@ Since the early 2000s, I have been involved in the indie game development univer
 Here's a glimpse of what you'll find in my profile:
 
 - 🔭 I’m currently working on Ambient, a cutting-edge multiplayer game engine.
+
 - 🌱 I’m currently expanding my knowledge in rust, wasm, and webgpu, and generally try to stay at the forefront of technological advancements.
+
 - 👯 I’m eager to collaborate on exciting projects with like-minded individuals.
+
 - 🤔 I’m open to receiving assistance and contributions for my ongoing endeavors.
+
 - 💬 Feel free to reach out to me about anything! I'm always up for an engaging conversation.
+
 - 📫 You can contact me at emmanuel.botros@gmail.com. I'll be happy to connect with you.
+
 -⚡ Fun fact: I reside in the southernmost city within the European Union, located in the enchanting Saint-Joseph on La Reunion island (south Indian ocean) !
 
 I hope my profile piques your interest and provides a glimpse into my diverse background and passion for technology, nature, and creative pursuits. Feel free to reach out, and let's embark on exciting collaborations and discussions together!
