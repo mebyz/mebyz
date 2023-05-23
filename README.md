@@ -20,7 +20,7 @@ Here's a glimpse of what you'll find in my profile:
 
 - 📫 You can contact me at emmanuel.botros@gmail.com. I'll be happy to connect with you.
 
--⚡ Fun fact: I reside in the southernmost city within the European Union, located in the enchanting Saint-Joseph on La Reunion island (south Indian ocean) !
+- ⚡ Fun fact: I reside in the southernmost city within the European Union, located in the enchanting Saint-Joseph on La Reunion island (south Indian ocean) !
 
 I hope my profile piques your interest and provides a glimpse into my diverse background and passion for technology, nature, and creative pursuits. Feel free to reach out, and let's embark on exciting collaborations and discussions together!
 
