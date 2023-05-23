@@ -8,9 +8,9 @@ Since the early 2000s, I have been involved in the indie game development univer
 
 Here's a glimpse of what you'll find in my profile:
 
-- 🔭 I’m currently working on Ambient, a cutting-edge multiplayer game engine.
+- 🔭 I’m currently working on [Ambient](https://ambient.run/), the cutting-edge multiplayer game engine, among other projects.
 
-- 🌱 I’m currently expanding my knowledge in rust, wasm, and webgpu, and generally try to stay at the forefront of technological advancements.
+- 🌱 I’m currently expanding my knowledge in [Rust](https://www.rust-lang.org/), [wasm](https://webassembly.org/), and [webgpu](https://www.w3.org/TR/webgpu/), [entity-component-systems](https://en.wikipedia.org/wiki/Entity_component_system), and more generally try to stay at the forefront of technological advancements.
 
 - 👯 I’m eager to collaborate on exciting projects with like-minded individuals.
 
